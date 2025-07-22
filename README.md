@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Pablo Llorente!
 
-### 🧑‍💻 Desarrollador Full Stack | Apasionado por la tecnología y la creatividad
+###  Desarrollador Full Stack | Apasionado por la tecnología y la creatividad
 
 Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones útiles, visuales y eficientes para personas y empresas que buscan digitalizar su presente.
 
