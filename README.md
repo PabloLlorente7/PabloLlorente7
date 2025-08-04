@@ -8,9 +8,9 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
 
 ### 🚀 Tecnologías que utilizo
 
-- ⚙️ **Backend**: PHP, Laravel, Node.js, MySQL, PostgreSQL
+- ⚙️ **Backend**: PHP, Laravel, MySQL, PostgreSQL, Python, Django
 - 🎨 **Frontend**: Vue.js, React, Tailwind CSS, Bootstrap
-- 🛠️ **Herramientas**: Git, Docker, Figma, Moonshine, Vite
+- 🛠️ **Herramientas**: Git, Docker, Figma, Vite
 - 🌐 **Otros**: APIs REST, Scrum, JWT, AWS, GitHub Actions
 
 
