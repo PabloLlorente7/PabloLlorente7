@@ -13,6 +13,7 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
 - 🛠️ **Herramientas**: Git, Docker, Figma, Moonshine, Vite
 - 🌐 **Otros**: APIs REST, Scrum, JWT, AWS, GitHub Actions
 
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -22,17 +23,15 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -59,6 +58,7 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
 </div>
+
 ---
 
 ### 🧠 Siempre aprendiendo
