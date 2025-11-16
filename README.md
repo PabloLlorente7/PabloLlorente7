@@ -8,56 +8,38 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
 
 ### 🚀 Tecnologías que utilizo
 
-- ⚙️ **Backend**: PHP, Laravel, MySQL, PostgreSQL, Python, Django
-- 🎨 **Frontend**: Vue.js, React, Tailwind CSS, Bootstrap
-- 🛠️ **Herramientas**: Git, Docker, Figma, Vite
-- 🌐 **Otros**: APIs REST, Scrum, JWT, AWS, GitHub Actions
+#### ⚙️ Backend
+- ![PHP](https://skillicons.dev/icons?i=php) PHP
+- ![Laravel](https://skillicons.dev/icons?i=laravel) Laravel
+- ![Python](https://skillicons.dev/icons?i=python) Python
+- ![Django](https://skillicons.dev/icons?i=django) Django
+- ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL
+- ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) PostgreSQL
 
+#### 🎨 Frontend
+- ![HTML](https://skillicons.dev/icons?i=html) HTML
+- ![CSS](https://skillicons.dev/icons?i=css) CSS
+- ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript
+- ![React](https://skillicons.dev/icons?i=react) React
+- ![Vue](https://skillicons.dev/icons?i=vue) Vue.js
+- ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) Tailwind CSS
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-</div>
+#### 🛠️ Herramientas
+- ![Git](https://skillicons.dev/icons?i=git) Git
+- ![GitHub](https://skillicons.dev/icons?i=github) GitHub
+- ![Docker](https://skillicons.dev/icons?i=docker) Docker
+- ![Figma](https://skillicons.dev/icons?i=figma) Figma
+- ![VSCode](https://skillicons.dev/icons?i=vscode) VSCode
+
+#### 🌐 Otros
+- ![JWT](https://skillicons.dev/icons?i=jwt) JWT
+- ![Linux](https://skillicons.dev/icons?i=linux) Linux
+- ![Markdown](https://skillicons.dev/icons?i=md) Markdown
+- ![Bash](https://skillicons.dev/icons?i=bash) Bash
+- ![PowerShell](https://skillicons.dev/icons?i=powershell) PowerShell
+- APIs REST, Scrum, AWS, GitHub Actions
+
 
 ---
 
@@ -76,7 +58,7 @@ Estoy constantemente formándome y desarrollando proyectos personales. Uno de mi
 ### 📫 Contacto
 
 - 📧 **Email**: pablollc07@gmail.com
-- 💼 [LinkedIn](linkedin.com/in/pablo-llorente-220709373)  
+- 💼 [LinkedIn](linkedin.com/in/pablo-llorente)  
 - 🛠️ [GitHub](https://github.com/PabloLLorente7) 
 
 ---
