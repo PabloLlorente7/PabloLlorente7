@@ -10,60 +10,60 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
 
 <div align="left">
 
-<!-- Backend -->
+<b>Backend:</b>
 <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /> PHP
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> Laravel
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> Python
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> Django
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /> MySQL
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" /> PostgreSQL
 
 <br/><br/>
 
-<!-- Frontend -->
+<b>Frontend:</b>
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /> HTML
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /> CSS
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> JavaScript
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> React
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> Vue.js
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> Tailwind CSS
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /> Bootstrap
 
 <br/><br/>
 
-<!-- Herramientas -->
+<b>Herramientas:</b>
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> Git
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> GitHub
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /> Docker
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /> Figma
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" /> VSCode
 
 <br/><br/>
 
-<!-- Otros -->
+<b>Otros:</b>
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /> Linux
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" /> Markdown
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /> Bash
-<img width="15" />
+<img width="10" />
 <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" /> PowerShell
-<img width="15" />
+<img width="10" />
 APIs REST, Scrum, JWT, AWS, GitHub Actions
 
 </div>
