@@ -97,7 +97,3 @@ Estoy constantemente formándome y desarrollando proyectos personales. Uno de mi
 <p align="center">
   <i>⚡ "Transformo ideas en software útil, limpio y escalable"</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloLLorente7&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-</p>
