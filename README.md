@@ -46,7 +46,7 @@ Soy un desarrollador web con enfoque full stack. Me encanta construir soluciones
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
 </p>
 
-**Además:** APIs REST • Scrum • JWT • AWS • GitHub Actions
+**Además:** APIs REST • AWS • GitHub Actions
 
 ---
 
