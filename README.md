@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Pablo Llorente!
+#  Hola, soy Pablo Llorente
 
 ### Desarrollador Full Stack | Apasionado por la tecnología y la creatividad
 
@@ -92,8 +92,3 @@ Estoy constantemente formándome y desarrollando proyectos personales. Uno de mi
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>⚡ "Transformo ideas en software útil, limpio y escalable"</i>
-</p>
