@@ -61,7 +61,7 @@ Estoy constantemente formándome y desarrollando proyectos personales. Uno de mi
 | Proyecto | Descripción | Tecnologías | Demo/Repo |
 |----------|-------------|-------------|-----------|
 | TFC | Gestion de gruas y de vehiculos | `Laravel` `Vue.js` `PostgreSQL` | [Ver →](https://github.com/PabloLLorente7/TFC) |
-| **📱 Proyecto 2** | Breve descripción del proyecto y su propósito | `React` `Django` `PostgreSQL` | [Ver →](https://github.com/PabloLLorente7) |
+| Proyecto-GestionAplicacion | Gestion de parcelas de una empresa | `React` `Django` `PostgreSQL` | [Ver →](https://github.com/PabloLLorente7/Proyecto-GestionAplicacion) |
 | **🤖 Proyecto 3** | Breve descripción del proyecto y su propósito | `Python` `TailwindCSS` `Docker` | [Ver →](https://github.com/PabloLLorente7) |
 | **⚡ Proyecto 4** | Breve descripción del proyecto y su propósito | `PHP` `Bootstrap` `MySQL` | [Ver →](https://github.com/PabloLLorente7) |
 
